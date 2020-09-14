@@ -10,6 +10,10 @@ import styled, { css } from 'styled-components'
 
 console.log("hi")
 
+console.log("checkWorkingOfGit")
+
+console.log("checkReset")
+
 const MyInput = styled.input`
 background-color:pink;
 color:yellow;
