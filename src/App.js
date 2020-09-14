@@ -8,7 +8,7 @@ import logo from './logo.svg';
 
 import styled, { css } from 'styled-components'
 
-
+console.log("hi")
 
 const MyInput = styled.input`
 background-color:pink;
