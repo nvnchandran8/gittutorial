@@ -14,6 +14,8 @@ console.log("checkWorkingOfGit")
 
 console.log("checkReset")
 
+console.log("finalCommit")
+
 const MyInput = styled.input`
 background-color:pink;
 color:yellow;
