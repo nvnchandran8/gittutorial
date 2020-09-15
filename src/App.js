@@ -18,6 +18,8 @@ console.log("finalCommit")
 
 console.log("please")
 
+console.log("checkUpstream")
+
 const MyInput = styled.input`
 background-color:pink;
 color:yellow;
