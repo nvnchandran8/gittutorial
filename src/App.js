@@ -16,6 +16,8 @@ console.log("checkReset")
 
 console.log("finalCommit")
 
+console.log("I'm back")
+
 
 const MyInput = styled.input`
 background-color:pink;
