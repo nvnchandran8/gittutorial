@@ -10,6 +10,8 @@ import styled, { css } from 'styled-components'
 
 console.log("hi")
 
+console.log("new addition in master")
+
 console.log("checkWorkingOfGit")
 
 console.log("checkReset")
